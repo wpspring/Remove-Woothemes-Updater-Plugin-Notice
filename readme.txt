@@ -2,7 +2,7 @@
 Contributors: wpspring
 Tags: woothemes updater plugin notice, woothemes admin notice
 Requires at least: 3.0
-Tested up to: 4.0
+Tested up to: 4.6
 Donate link: https://wpspring.com/
 Stable tag: 1.0
 License: GPLv2 or later
