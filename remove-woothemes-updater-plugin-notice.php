@@ -1,7 +1,7 @@
 <?php
 /**
  * Plugin Name: Remove Woothemes Updater Plugin Notice
- * Plugin URI: https://wpspring.com/
+ * Plugin URI: https://wordpress.org/plugins/remove-woothemes-updater-plugin-notice/
  * Description: This plugin makes it easy to remove the WooThemes Updater Plugin Notice from the top of your WordPress Admin page.
  * Version: 1.0.1
  * Author: WPspring
@@ -26,4 +26,3 @@ class WC_RemoveWoothemesUpdaterPluginNotice {
 }
 $GLOBALS['wc_removewoothemesupdaterpluginnotice'] = new WC_RemoveWoothemesUpdaterPluginNotice();
 endif;
-?>
