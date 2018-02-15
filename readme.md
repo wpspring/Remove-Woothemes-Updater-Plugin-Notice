@@ -2,9 +2,11 @@
 Contributors: wpspring
 Tags: woothemes updater plugin notice, woothemes admin notice
 Requires at least: 3.0
-Tested up to: 4.9
+Tested up to: 4.9.4
 Donate link: https://wpspring.com/
-Stable tag: 1.0.2
+Stable tag: 1.0.3
+WC requires at least: 2.5
+WC tested up to: 3.2
 License: GPLv2 or later
 
 Remove the WooThemes Updater Plugin Notice from WordPress Admin.
@@ -17,6 +19,9 @@ thereafter, displayed license warnings in WP-Admin headers. This plugin will rem
 
 If you're running WooCommerce 3.1 or above, you no longer need to install this plugin as all license messaging has
 moved to within the WooCommerce settings area.
+
+As of WooCommerce 3.3.1, there is a Connect Your Store to woocommerce.com notice. To remove this notice,
+please try the [WPSpring Remove WooCommerce Connect Your Store Notice plugin](https://wordpress.org/plugins/wpspring-remove-woocommerce-connect-your-store-notice/).
 
 ## Installation
 
