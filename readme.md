@@ -2,11 +2,11 @@
 Contributors: wpspring
 Tags: woothemes updater plugin notice, woothemes admin notice
 Requires at least: 3.0
-Tested up to: 4.9.4
+Tested up to: 4.9.8
 Donate link: https://wpspring.com/
-Stable tag: 1.0.3
+Stable tag: 1.0.4
 WC requires at least: 2.5
-WC tested up to: 3.2
+WC tested up to: 3.3.1
 License: GPLv2 or later
 
 Remove the WooThemes Updater Plugin Notice from WordPress Admin.
